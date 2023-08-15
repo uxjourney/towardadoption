@@ -6,4 +6,4 @@ Wahyu Andhyka Kusumaa,ab*, Azrul Hazri Jantan (a), Novia Admodisastro (a), Noris
 (b) Informatic, Universitas Muhammadiyah Malang, Indonesia<br>
 Corresponding author: gs63875@student.upm.edu.my; wahyukusuma@umm.ac.id
 
-Link to survey: https://forms.gle/AhMadAz7bi9BPRgf9
+Link to UX attributes academic and industry survey: https://forms.gle/AhMadAz7bi9BPRgf9
