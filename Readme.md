@@ -4,6 +4,6 @@ This repository to support article:
 Wahyu Andhyka Kusumaa,ab*, Azrul Hazri Jantan (a), Novia Admodisastro (a), Noris binti Mohd Norowi (a)<br>
 (a) Human-Computer Interaction (HCI) Research Group, Faculty of Computer Science and Information Technology, University Putra Malaysia, Malaysia<br> 
 (b) Informatic, Universitas Muhammadiyah Malang, Indonesia<br>
-Corresponding author: gs63875@student.upm.edu.my
+Corresponding author: gs63875@student.upm.edu.my; wahyukusuma@umm.ac.id
 
 Link to survey: https://forms.gle/AhMadAz7bi9BPRgf9
